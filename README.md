@@ -4,4 +4,4 @@ Ejercicios prácticos de Excel aplicados. Incluye funciones, tablas dinámicas, 
 - [ ] *Uso de funciones avanzadas como BUSCARV, ÍNDICE, COINCIDIR, SI, y anidamientos.*
 - [ ] *Creación de tablas dinámicas y gráficos interactivos para análisis visual.*
 - [ ] *Manejo de limpieza y validación de datos.*
-- [ ] *Ejemplos basicos orientados a situaciones reales: reportes, dashboards y análisis*
+- [ ] *Ejemplos basicos orientados a situaciones reales: reportes, dashboards y análisis.*
